@@ -8,6 +8,6 @@ imutils
 ```
 
 # Usage
-execute the following command from your venv
+execute the following command from your terminal
 ```
 python filter_object_detection.py -i filename.mp4
